@@ -2,7 +2,7 @@
 <h3 align="center">iOS Developer, embedded C/C++ developer. From Kazan/Innopolis, Russia. </h3>
 
 - Now I'm actively learning UIKit and taking part in challenge from Coffee&Code - Swift Marathon.
-- My CV: [Review]()
+- My CV: [Review](https://github.com/anmikhailov/anmikhailov/blob/main/CV.pdf)
 - 📫 My contacts: 
   - Linkedin: [Andrey Mikhailov](https://www.linkedin.com/in/andrey-mikhailov-a7b964251/)
   - Telegram username: [@andrey310](https://t.me/andrey310)
